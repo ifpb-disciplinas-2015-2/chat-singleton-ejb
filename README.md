@@ -1,0 +1,1 @@
+# chat-singleton-ejb
